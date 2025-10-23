@@ -1,0 +1,8 @@
+Package: TTT
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: zach-s-app <TTT.deb@github.com>
+Homepage: https://wt63s66rzyoibzcg63vp5ya5lccqepdqeh6zgbqlfrcebftsrz6qweid.onion
+Description: Launcher for per-user myapp.pyz on Desktop made by zach

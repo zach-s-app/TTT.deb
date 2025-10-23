@@ -1,0 +1,10 @@
+#!/bin/bash
+PYZ="/usr/lib/TTT/myapp.pyz"
+
+if [ ! -f "$PYZ" ]; then
+    echo "Error: myapp.pyz not found!"
+    exit 1
+fi
+
+python3 "$PYZ" "$@"
+
